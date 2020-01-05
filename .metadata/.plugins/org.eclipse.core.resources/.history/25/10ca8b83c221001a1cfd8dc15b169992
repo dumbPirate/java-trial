@@ -1,0 +1,13 @@
+package first;
+
+public class Pattern {
+	public static void main(String[] args){
+		int a = 9;
+		for(int i = 9;i>0;i--) {
+			for(int j=0;j<;ij++){
+				System.out.print(" +");
+			}
+			System.out.println("");
+		}
+	}
+}

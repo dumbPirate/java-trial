@@ -1,0 +1,17 @@
+package first;
+
+public class ReverseString {
+	public static void main(String[] args){
+//		String grt = "123456789";
+//	    StringBuilder rev=new StringBuilder("1234  56789");  
+//	    rev.reverse();
+		
+//	    char ch[]="1234567890".toCharArray();  
+//	    String rev="";
+//	    for(int i=ch.length-1;i>=0;i--){
+//	        rev+=ch[i];  
+//	    }  
+//		
+	    System.out.println("5"+"6"+7);
+	} 
+}
