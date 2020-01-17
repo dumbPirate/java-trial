@@ -1,0 +1,11 @@
+package abstraction.practice2;
+
+public class Rectangle implements Shape {
+
+	@Override
+	public void draw() {
+		System.out.print("Rectangle Drawn and ");
+
+	}
+
+}

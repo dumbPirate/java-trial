@@ -9,7 +9,7 @@ public class Traversing {
 		list.add("Ravi");  
 		list.add("Ajay");  
 		//Traversing list through Iterator  
-		Iterator itr=list.iterator();  
+		Iterator itr=list.iterator(); 
 		while(itr.hasNext()){  
 			System.out.println(itr.next());  
 		}  

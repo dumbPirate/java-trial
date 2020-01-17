@@ -31,19 +31,8 @@ class Trul implements Runnable{
 	}
 }
 
-//public class UsingImplemen {
-//	public int t = 0;
-//	public synchronized void inc() {
-//		t++;
-//	}
-//}
-
 public class UsingImplements {
 	public static void main(String[] args) {
-		
-		public synchronized void inc() {
-			
-		}
 		
 		Thread t1 = new Thread(new Runners());
 		Thread t2 = new Thread(new Trul());

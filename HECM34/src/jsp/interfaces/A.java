@@ -1,0 +1,7 @@
+package jsp.interfaces;
+
+public interface A 
+{
+	int x=10;
+	void m1();
+}
